@@ -1,0 +1,24 @@
+#cardimage {
+  position: absolute;
+  height: 450px;
+  width: 600px;
+  left: 50%;
+  margin-left: -300px;
+  top: 20px;
+}
+#Planeswalk {
+  position: absolute;
+  background-color: "red";
+  top: 500px;
+  left: 50%;
+  width: 80px;
+  height: 20px;
+  margin-left: 100px;
+}
+#pastplanescontainer {
+  position: absolute;
+  width: 50px;
+  left: 20px;
+  height: 100%;
+  overflow: auto;
+}
